@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java and how the git system works
 - 💬 Ask me about louisville city football club 
 - 📫 How to reach me: iaibik01@louisville.edu
-- ⚡ Fun fact: I can speak two languages
+- ⚡ Fun fact: I can speak two languages (Yoruba and English)
 
